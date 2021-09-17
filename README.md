@@ -1,6 +1,6 @@
 # arduino (pro) micro macro keyboard
 
-![side](https://user-images.githubusercontent.com/76870663/133742686-19f7a2f2-1a78-4f4b-885c-bc56696507e0.jpg)
+![Best rendering (3)](https://user-images.githubusercontent.com/76870663/133833800-85e0ed2d-d4ae-48e4-a4c3-c7bc171ead55.png)
 
 
 A macro keyboard using Arduino (pro) micro with selectable macro profiles
