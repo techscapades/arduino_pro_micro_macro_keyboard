@@ -145,7 +145,7 @@ solder my SMD resistors to the top of the PCB as I quite like the look of it.
 
 ![comparison](https://user-images.githubusercontent.com/76870663/133802271-422d9830-7a59-47fb-8ac0-c105209ace5a.png)
 
-
+##### Mounting options
 You have plenty of options for mounting the PCB to the housing base since I've 
 made the holes slightly smaller which gives you the option to use self-tap screws 
 or machine screws with nuts or machine screws with tapped holes; you can literally use 
