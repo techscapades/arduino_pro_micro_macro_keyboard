@@ -76,6 +76,7 @@ the housing base to prevent it from slipping.
 
 *Optional Housing 3D printing files for extra style points*
 //insert cover piece photo
+
 The additional rotary encoder/reset button/OLED cover piece is nice but not necessary.
 If you do decide to print it, you will need to:
 1. Ideally tap M3 threads into the 3 holes in the PCB cover or less ideally
@@ -83,11 +84,13 @@ If you do decide to print it, you will need to:
 2. Screw 3x M3x6mm brass spacers into the holes
 3. *optional* drill 4mm holes into the cover piece if the screws dont go in right
 
-*Optional Optional transparent acrylic cover for stype points over 9000*
+*Optional Optional transparent acrylic cover for style points over 9000*
 //insert transparent piece image here
-This transparent acrylic cover will cover the OLED, I used my cutting table to make it. 
-If you do decide to include this, replace the bottom 2 M3x6mm screws holding the cover 
-piece to the PCB cover and replace it with 2x M3x10mm screws
+
+This transparent acrylic cover will cover the OLED, I used my cutting table to make it
+but you can use a laser cutter to cut it out as well. If you do decide to include this, 
+replace the bottom 2 M3x6mm screws holding the cover piece to the PCB cover and replace 
+it with 2x M3x10mm screws
 //insert image here
 
 # Special thanks to:
