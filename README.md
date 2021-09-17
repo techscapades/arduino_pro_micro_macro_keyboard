@@ -37,7 +37,7 @@ I'll get back to you as soon as I am able to.
 
 # PCB:
 
-TOP:
+Top:
 ![topPCB](https://user-images.githubusercontent.com/76870663/133747172-58dd6b49-5fd8-4458-9180-8375bdfa83fc.PNG)
 
 Bottom:
