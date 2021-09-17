@@ -147,8 +147,10 @@ If you do decide to 3D print or laser cut it, you will need to:
 ![spacer on pcb cover](https://user-images.githubusercontent.com/76870663/133743668-c0b9c0dd-6af3-4ed8-be22-b2bc398a15db.jpg)
 3. *optional* drill 4mm holes into the cover piece if the screws dont go in right
 
+
 *Optional Optional transparent acrylic cover for style points over 9000*
 ![transparent piece](https://user-images.githubusercontent.com/76870663/133743489-49b7076f-709e-4aaf-9005-3c991c47e674.jpg)
+
 
 This transparent acrylic cover will cover the OLED, I used my cutting table to make it
 but you can use a laser cutter to cut it out as well. If you do decide to include this, 
