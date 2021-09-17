@@ -7,7 +7,8 @@ A macro keyboard using Arduino (pro) micro with selectable macro profiles
 and an OLED screen to indicate the profile selected. It uses a PISO shift
 register to determine what key is pressed instead of a diodes and resistors.
 It uses Cherry MX switches or clones of it to really capture that keyboard feel.
-It can 
+It can do a lot more than simulate key presses though, it can replicate a mouse, 
+launch programmes and much more! Theres an easter egg in profile 5.
 
 Apart from the code and required libraries, the PCB gerber files, 3D CAD files 
 for the housing, parts list and snapshots of the different skews are included 
