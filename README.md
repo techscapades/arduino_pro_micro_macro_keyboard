@@ -16,7 +16,7 @@ USB type C or micro-usb connector, the mini-USB version will not fit!
 2. Profile selector button
 3. Reset button
 4. OLED screen
-5. Default 18 possible macro combinations per profile
+5. By default there are 18 possible macro combinations per profile
    but it can go up to 24 for normal humans and 254 for
    geniuses who can remember that many combinations but 
    do mind the amount of available memory
@@ -68,6 +68,9 @@ Soldering order as follows:
    of the rotary encoder covering the resistors etc.. This is done to 
    stabilise the rotary encoder. I used wire cutter to remove it.
    //insert image here
+   One tip to ensure the encoder is level is to dab a little soder on
+   1 pin and then holding the soldering iron to the pin with the soder
+   on it and straightning the encoder. Its a little tricky but take your time
    
 9. Solder the rotary encoder to the top of the PCB
 10. Finally, remove the extra black plastic holding the male header pins
