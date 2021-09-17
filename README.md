@@ -50,6 +50,13 @@ SMD 2010 form factor, you have the option of soldering them either on
 the top or bottom of the PCB depending on which version of the CAD 
 housing you want to print.
 
+I used JLCPCB.com to make the PCB, they're pretty fast and reliable, hence the 
+"JLCJLCJLCJLC" on the bottom side. I put that there because I wanted the ugly 
+order number to be hidden from view, if you do use JLCPCB.com to make the
+PCB, make sure under "Remove Order Number" you select 'Specify a location', its at no extra cost!
+![jlcpcb remove order number](https://user-images.githubusercontent.com/76870663/133786011-6cd00bef-3afd-4ec0-a69d-d0eb82e8677c.PNG)
+
+
 PCB components: (all links and images attached in PDF)
 1. 1x Arduino (pro) Micro
 2. 1x Rotary encoder with round PCB
