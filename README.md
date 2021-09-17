@@ -23,13 +23,18 @@ USB type C or micro-usb connector, the mini-USB version will not fit!
    do mind the amount of available memory
 
 # Code and usage:
+Download and unzip both the required_libraries and 
 Explained in this youtube video:
 
 Dont hesitate to drop me a message if you need additional clarification,
 I'll get back to you as soon as I am able to.
 
 # PCB:
+
+TOP:
 ![topPCB](https://user-images.githubusercontent.com/76870663/133747172-58dd6b49-5fd8-4458-9180-8375bdfa83fc.PNG)
+
+Bottom:
 ![btmPCB](https://user-images.githubusercontent.com/76870663/133747183-221e5132-7f5a-4eae-aa7a-4d27b3652546.PNG)
 
 The current PCB uses cherry MX or similar key switches as buttons,
@@ -59,6 +64,7 @@ Soldering order as follows:
 3. Solder the DIP-16 socket or 74HC165 directly to the PCB with the 
    identifying indented notch on Pin 1 pointing towards the left where the
    "O" on the PCB is
+   
    ![PISO orientation](https://user-images.githubusercontent.com/76870663/133743000-68bef616-6126-4ed6-a268-ae768a9edbbb.jpg)
 
 4. Solder the Arduino (pro) Micro to the bottom of the PCB
@@ -149,7 +155,8 @@ it with 2x M3x10mm screws
 NicoHood for developing the HID library and
 Henning Karlsen of Rinky-Dink Electronics for developing a 
 lightweight OLED library. DroneBot workshop for providing the 
-basic code to run the 74HC165 PISO shift register.
+basic code to run the 74HC165 PISO shift register. Their 
+libraries are included in the ZIP file. 
 
 
 
