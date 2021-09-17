@@ -24,7 +24,7 @@ USB type C or micro-usb connector, the mini-USB version will not fit!
 
 # Code and usage:
 1. Ensure you have the Arduino IDE installed
-2. Download and unzip both the required libraries.zip and arduino_micro_shift_register_piso_rot_enc_psbtn_OLED_V3.zip
+2. Download and unzip 'required libraries.zip' and 'arduino_micro_shift_register_piso_rot_enc_psbtn_OLED_V3.zip'
 files. 
 3. Go to the 'libraries' folder in your arduino installation and paste the 2 folders inside the 'required libraries'
 folder into the 'libraries' folder in your arduino installation. 
@@ -37,10 +37,10 @@ I'll get back to you as soon as I am able to.
 
 # PCB:
 
-Top:
+##### Top:
 ![topPCB](https://user-images.githubusercontent.com/76870663/133747172-58dd6b49-5fd8-4458-9180-8375bdfa83fc.PNG)
 
-Bottom:
+##### Bottom:
 ![btmPCB](https://user-images.githubusercontent.com/76870663/133747183-221e5132-7f5a-4eae-aa7a-4d27b3652546.PNG)
 
 The current PCB uses cherry MX or similar key switches as buttons,
@@ -54,11 +54,12 @@ I used JLCPCB.com to make the PCB, they're pretty fast and reliable, hence the
 "JLCJLCJLCJLC" on the bottom side. I put that there because I wanted the ugly 
 order number to be hidden from view, if you do use JLCPCB.com to make the
 PCB, upload the entire "PCB_Gerber.zip" file and make sure under "Remove Order Number" 
-you select 'Specify a location', its at no extra cost!
+you select 'Specify a location', its at no extra cost.
+
 ![jlcpcb remove order number](https://user-images.githubusercontent.com/76870663/133786011-6cd00bef-3afd-4ec0-a69d-d0eb82e8677c.PNG)
 
 
-PCB components: (all links and images attached in PDF)
+##### PCB components: (all links and images attached in PDF)
 1. 1x Arduino (pro) Micro
 2. 1x Rotary encoder with round PCB
 4. 9x Cherry MX clone keyboard switches
@@ -71,7 +72,7 @@ PCB components: (all links and images attached in PDF)
 12. *Optional but highly recommended* 1x Rotary encoder knob
 13. *Optional* 1x DIP-16 socket or 2x DIP-8 sockets
 
-IMPORTANT NOTE: YOU NEED TO SOLDER THE COMPONENTS IN A CERTAIN ORDER!
+##### IMPORTANT NOTE: YOU NEED TO SOLDER THE COMPONENTS IN A CERTAIN ORDER!
 Soldering order as follows: 
 1. Solder the SMD or THT resistors 
 2. Solder the 12mm tactile switch to the top of the PCB
@@ -144,7 +145,7 @@ the housing base to prevent it from slipping.
 ![btm](https://user-images.githubusercontent.com/76870663/133743384-ae5d4253-643d-42cc-ab7f-80addf39dc2b.jpg)
 
 
-*Optional Housing 3D printing files for extra style points*
+## *Optional Housing 3D printing files for extra style points*
 ![cover piece](https://user-images.githubusercontent.com/76870663/133743341-77e2853a-af4c-4b08-b9e1-0098dc504f5f.jpg)
 ![cover piece alone](https://user-images.githubusercontent.com/76870663/133743348-bb87dc2f-7787-4d66-9914-806b5c352703.jpg)
 
@@ -158,7 +159,7 @@ If you do decide to 3D print or laser cut it, you will need to:
 3. *optional* drill 4mm holes into the cover piece if the screws dont go in right
 
 
-*Optional Optional transparent acrylic cover for style points over 9000*
+## *Optional Optional transparent acrylic cover for style points over 9000*
 ![transparent piece](https://user-images.githubusercontent.com/76870663/133743489-49b7076f-709e-4aaf-9005-3c991c47e674.jpg)
 
 
