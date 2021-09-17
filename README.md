@@ -5,32 +5,36 @@
 
 A macro keyboard using Arduino (pro) micro with selectable macro profiles
 and an OLED screen to indicate the profile selected. It uses a PISO shift
-register 
+register to determine what key is pressed instead of a diodes and resistors.
+It uses Cherry MX switches or clones of it to really capture that keyboard feel.
+It can 
 
-The PCB gerber files, 3D CAD files for the housing and parts list are 
-included as well. Do note that the Arduino (pro) micro that is compatible 
+Apart from the code and required libraries, the PCB gerber files, 3D CAD files 
+for the housing, parts list and snapshots of the different skews are included 
+as well. Do note that the Arduino (pro) micro that is compatible 
 with the current PCB and 3D CAD is 17.9mm in width and it has either 
 USB type C or micro-usb connector, the mini-USB version will not fit!
 
 # Features:
-1. Rotary encoder
+1. OLED screen 
 2. Profile selector button
 3. Reset button
-4. OLED screen
+4. Rotary encoder
 5. By default there are 18 possible macro combinations per profile
-   but it can go up to 24 for normal humans and 254 for
-   geniuses who can remember that many combinations but 
+   but it can go up to 22 for normal humans and 254 for
+   geniuses who can remember that many combinations, but 
    do mind the amount of available memory
 
 # Code and usage:
 1. Ensure you have the Arduino IDE installed
 2. Download and unzip 'required libraries.zip' and 'arduino_micro_shift_register_piso_rot_enc_psbtn_OLED_V3.zip'
 files. 
-3. Go to the 'libraries' folder in your arduino installation and paste the 2 folders inside the 'required libraries'
+3. Go to the 'libraries' folder in your arduino installation and paste the 2 subfolders inside the 'required libraries'
 folder into the 'libraries' folder in your arduino installation. 
 4. Then open the arduino_micro_shift_register_piso_rot_enc_psbtn_OLED_V3.ino file.
 
 How to modify the code to suit you is explained in this youtube video:
+{coming soon}
 
 Dont hesitate to drop me a message if you need additional clarification,
 I'll get back to you as soon as I am able to.
@@ -89,28 +93,30 @@ Soldering order as follows:
 8. From the bottom of the Rotary encoder, remove the extra black plastic 
    holding the male header pins and attach a piece of tape to the bottom 
    of the rotary encoder covering the resistors etc.. This is done to 
-   stabilise the rotary encoder. I used wire cutter to remove it.
+   stabilise the rotary encoder. I used the tip of a wire cutter to remove it.
    ![rotary encoder](https://user-images.githubusercontent.com/76870663/133743059-7414ecbf-2354-4741-af97-59057a1d5861.jpg)
 
-   One tip to ensure the encoder is level is to dab a little soder on
+   One tip to ensure the encoder is level, is to dab a little soder on
    1 pin and then holding the soldering iron to the pin with the soder
    on it and straightning the encoder. Its a little tricky but take your time
    
 9. Solder the rotary encoder to the top of the PCB
 10. Finally, remove the extra black plastic holding the male header pins
     of the OLED display and snip about 2mm off the bottom and put some 
-    double sided tape on the bottom right side of the OLED 
+    double sided tape on the bottom right side of the OLED. Place the OLED
+    display in the 4 pin female PCB header pins to test the height and ensure
+    its sitting level and it's right side rests on the other 4 pin female PCB header.
     ![OLED with tape](https://user-images.githubusercontent.com/76870663/133743126-afad81fb-9c8a-4c64-97a9-471e8f578c06.jpg)
 
 
 Congratulations, you're done! If you have a multimeter, I recommend that after
-every stage of soldering you go into continuity test mode and check that your 
-connections are solid and you havent shorted or connected any pins together 
+every step of soldering, you go into continuity test mode and check that your 
+connections are solid and you haven't shorted or connected any pins together 
 or you'll be in for a bad time. I also recommend ensuring all your cherry MX 
 or clone key switches work before soldering them on to the PCB. 
 
 If you've never done a continuity test before, you hold one probe to one pad 
-or pin and then the other to the part it's suppost to be connected to, 
+or pin and then the other to the part it's supposed to be connected to, 
 either a PCB trace or a neighbouring pin. If the multimeter buzzes, a connection
 is made, whether or not thats a good or bad thing will depend on whether a
 connection is supposed to be or not to be made. 
