@@ -51,9 +51,10 @@ I'll get back to you as soon as I am able to.
 The current PCB uses cherry MX or similar key switches as buttons,
 feel free to use any switch you like! The 10K resistors on the side 
 can either be in the SMD 2010 from factor or THT. If you're using the
-SMD 2010 form factor, you have the option of soldering them either on
+SMD 2010 form factor resistor, you have the option of soldering them either on
 the top or bottom of the PCB depending on which version of the CAD 
-housing you want to print.
+housing you want to print. If you want to see how both skews look, scroll
+down to the next section or open 'comparison.png' in the snapshot folder.
 
 I used JLCPCB.com to make the PCB, they're pretty fast and reliable, hence the 
 "JLCJLCJLCJLC" on the bottom side. I put that there because I wanted the ugly 
