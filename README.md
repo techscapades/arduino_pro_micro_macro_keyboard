@@ -118,8 +118,10 @@ connection is supposed to be or not to be made.
 ![top](https://user-images.githubusercontent.com/76870663/133743212-94336877-8aea-47c0-ba61-f0fcef568430.jpg)
 
 The main components of the housing are the PCB cover and the housing base.
-You can choose to laser cut the PCB cover if you want.
-//insert images of both here
+You can choose to laser cut the PCB cover if you want. 
+Raw CAD files are in: 3D CAD files folder > raw step files. 
+STL files are in: 3D CAD files folder > stl files.
+
 
 There are 2 versions of the PCB cover, one version is when the SMD or THT
 resistors are soldered to the top of the PCB, the other is when the
