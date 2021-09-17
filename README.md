@@ -26,6 +26,10 @@ USB type C or micro-usb connector, the mini-USB version will not fit!
    geniuses who can remember that many combinations, but 
    do mind the amount of available memory
 
+##### Blown up view of components:
+![Blown up view with labelled parts _1](https://user-images.githubusercontent.com/76870663/133823503-fe2c02ee-ff41-4271-988d-6cbe7a4aba0b.png)
+
+
 # Code and usage:
 1. Ensure you have the Arduino IDE installed
 2. Download and unzip 'required libraries.zip' and 'arduino_micro_shift_register_piso_rot_enc_psbtn_OLED_V3.zip'
