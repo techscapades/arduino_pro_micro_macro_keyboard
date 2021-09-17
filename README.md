@@ -134,7 +134,8 @@ STL files are in: 3D CAD files folder > stl files.
 There are 2 versions of the PCB cover, one version is when the SMD or THT
 resistors are soldered to the top of the PCB, the other is when the
 SMD (only) resistors are soldered to the bottom of the PCB, snapshots of
-what both versions will look like are in the 'snapshots' folder. 
+what both versions will look like are in the 'snapshots' folder. I decided to
+solder my SMD resistors to the top of the PCB as I quite like the look of it.
 
 You have plenty of options for mounting the PCB to the housing base since I've 
 made the holes slightly smaller which gives you the option to use self-tap screws 
@@ -142,7 +143,7 @@ or machine screws with nuts or machine screws with tapped holes; you can literal
 whatever you have at hand but keep in mind that the screws I intended to use are M3 
 so make sure you have the correct size.
 
-I've opted to drill 3mm holes in the housing base and PCB cover, then use M3x20mm 
+I've opted to drill 3mm holes in the housing base and PCB cover, then used M3x20mm 
 screws with plastic M3 spacers to fasten the screw from the bottom of the base
 to the top of the PCB cover. Finally, I've added anti-slip pads to the bottom of
 the housing base to prevent it from slipping.
@@ -170,9 +171,9 @@ If you do decide to 3D print or laser cut it, you will need to:
 
 
 This transparent acrylic cover will cover the OLED, I used my cutting table to make it
-but you can use a laser cutter to cut it out as well. If you do decide to include this, 
-replace the bottom 2 M3x6mm screws holding the cover piece to the PCB cover and replace 
-it with 2x M3x10mm screws
+but you can use a laser cutter to cut it out as well. The thickness of the clear acrylic should
+be from 1 to 3mm, the thinner it is the better. If you do decide to include this, replace the 
+bottom 2 M3x6mm screws holding the cover piece to the PCB cover and replace it with 2x M3x10mm screws
 ![transparent piece on assem](https://user-images.githubusercontent.com/76870663/133743481-73602a66-7da9-410e-b588-e2e9209e35b4.jpg)
 
 
