@@ -53,7 +53,8 @@ housing you want to print.
 I used JLCPCB.com to make the PCB, they're pretty fast and reliable, hence the 
 "JLCJLCJLCJLC" on the bottom side. I put that there because I wanted the ugly 
 order number to be hidden from view, if you do use JLCPCB.com to make the
-PCB, make sure under "Remove Order Number" you select 'Specify a location', its at no extra cost!
+PCB, upload the entire "PCB_Gerber.zip" file and make sure under "Remove Order Number" 
+you select 'Specify a location', its at no extra cost!
 ![jlcpcb remove order number](https://user-images.githubusercontent.com/76870663/133786011-6cd00bef-3afd-4ec0-a69d-d0eb82e8677c.PNG)
 
 
