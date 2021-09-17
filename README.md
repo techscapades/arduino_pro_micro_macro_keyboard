@@ -145,6 +145,8 @@ solder my SMD resistors to the top of the PCB as I quite like the look of it.
 
 ![comparison](https://user-images.githubusercontent.com/76870663/133802271-422d9830-7a59-47fb-8ac0-c105209ace5a.png)
 
+
+
 ##### Mounting options
 You have plenty of options for mounting the PCB to the housing base since I've 
 made the holes slightly smaller which gives you the option to use self-tap screws 
@@ -161,7 +163,7 @@ the housing base to prevent it from slipping.
 ![btm](https://user-images.githubusercontent.com/76870663/133743384-ae5d4253-643d-42cc-ab7f-80addf39dc2b.jpg)
 
 
-## *Optional Housing 3D printing files for extra style points*
+## *Optional- Cover piece for extra style points*
 ![cover piece](https://user-images.githubusercontent.com/76870663/133743341-77e2853a-af4c-4b08-b9e1-0098dc504f5f.jpg)
 ![cover piece alone](https://user-images.githubusercontent.com/76870663/133743348-bb87dc2f-7787-4d66-9914-806b5c352703.jpg)
 
@@ -172,10 +174,13 @@ If you do decide to 3D print or laser cut it, you will need to:
    heat up an M3 screw and screw into the cover piece to create the thread
 2. Screw 3x M3x6mm brass spacers into the holes
 ![spacer on pcb cover](https://user-images.githubusercontent.com/76870663/133743668-c0b9c0dd-6af3-4ed8-be22-b2bc398a15db.jpg)
+
+
 3. *optional* drill 4mm holes into the cover piece if the screws dont go in right
 
 
-## *Optional Optional transparent acrylic cover for style points over 9000*
+## *Optional Optional- Transparent acrylic OLED cover for style points over 9000*
+
 ![transparent piece](https://user-images.githubusercontent.com/76870663/133743489-49b7076f-709e-4aaf-9005-3c991c47e674.jpg)
 
 
@@ -183,6 +188,8 @@ This transparent acrylic cover will cover the OLED, I used my cutting table to m
 but you can use a laser cutter to cut it out as well. The thickness of the clear acrylic should
 be from 1 to 3mm, the thinner it is the better. If you do decide to include this, replace the 
 bottom 2 M3x6mm screws holding the cover piece to the PCB cover and replace it with 2x M3x10mm screws
+
+
 ![transparent piece on assem](https://user-images.githubusercontent.com/76870663/133743481-73602a66-7da9-410e-b588-e2e9209e35b4.jpg)
 
 
