@@ -12,7 +12,7 @@ with the current PCB and 3D CAD is 17.9mm in width and it has either
 USB type C or micro-usb connector, the mini-USB version will not fit!
 
 # Features:
-1. Rotary encoder knob
+1. Rotary encoder
 2. Profile selector button
 3. Reset button
 4. OLED screen
@@ -27,7 +27,7 @@ Explained in this youtube video:
 
 # PCB:
 
-//insert PCB image here
+//insert PCB images here
 
 The current PCB uses cherry MX or similar key switches as buttons,
 feel free to use any switch you like! The 10K resistors on the side 
@@ -46,10 +46,10 @@ PCB components: (all links and images attached in PDF)
 8. 1x DIP-16 74HC165 PISO shift register
 9. 8x SMD-2010 or THT 10K resistors
 10. 2x 4 pin female PCB header pins
-11. *Optional* 1x Rotary encoder knob
-12. *Optional* 1x DIP-16 socket or 2x DIP-8 sockets
+12. *Optional but highly recommended* 1x Rotary encoder knob
+13. *Optional* 1x DIP-16 socket or 2x DIP-8 sockets
 
-# 3D CAD housing
+# 3D Printable CAD housing
 
 //insert CAD housing picture here
 
@@ -69,7 +69,9 @@ so make sure you have the correct size.
 
 I've opted to drill 3mm holes in the housing base and PCB cover, then use M3x20mm 
 screws with plastic M3 spacers to fasten the screw from the bottom of the base
-to the top of the PCB cover.
+to the top of the PCB cover. Finally, I've added anti-slip pads to the bottom of
+the housing base to prevent it from slipping.
+
 //insert images here
 
 *Optional Housing 3D printing files for extra style points*
