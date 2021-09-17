@@ -29,8 +29,8 @@ Dont hesitate to drop me a message if you need additional clarification,
 I'll get back to you as soon as I am able to.
 
 # PCB:
-
-//insert PCB images here
+![topPCB](https://user-images.githubusercontent.com/76870663/133747172-58dd6b49-5fd8-4458-9180-8375bdfa83fc.PNG)
+![btmPCB](https://user-images.githubusercontent.com/76870663/133747183-221e5132-7f5a-4eae-aa7a-4d27b3652546.PNG)
 
 The current PCB uses cherry MX or similar key switches as buttons,
 feel free to use any switch you like! The 10K resistors on the side 
