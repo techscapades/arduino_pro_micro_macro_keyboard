@@ -24,8 +24,31 @@ The current PCB uses cherry MX or similar key switches as buttons,
 feel free to use any switch you like! The 10K resistors on the side 
 can either be in the SMD 2010 from factor or THT. If you're using the
 SMD 2010 form factor, you have the option of soldering them either on
-the top or bottom of the PCB depending on which version of the housing
-you want to print.
+the top or bottom of the PCB depending on which version of the CAD 
+housing you want to print.
+
+PCB components: (all links in attached PDF)
+1. 1x Arduino (pro) Micro
+2. 1x Rotary encoder with round PCB
+4. 9x Cherry MX clone keyboard switches
+5. 9x Cherry MX compatible keycaps
+6. 1x 128x32 OLED 
+7. 1x 12mm tactile push button switch
+8. 1x DIP-16 74HC165 PISO shift register
+9. 8x SMD-2010 or THT 10K resistors
+10. 2x 4 pin female PCB header pins
+11. *Optional* 1x Rotary encoder knob
+12. *Optional* 1x DIP-16 socket or 2x DIP-8 sockets
+
+# 3D CAD housing
+There are 2 versions of the housing, one version is when the SMD or THT
+resistors are soldered to the top of the housing, the other is when the
+SMD (only) resistors are soldered to the bottom of the PCB, snapshots of
+what both versions will look like are in the 'snapshots' folder. 
+
+You have a couple options for mounting the PCB to the housing base since I've 
+made the holes slightly smaller:
+1. use an m3 tap to tap the holes and then use an M3 screw
 
 # Special thanks to:
 NicoHood for developing the HID library and
