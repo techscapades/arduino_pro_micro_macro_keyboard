@@ -59,7 +59,7 @@ you select 'Specify a location', its at no extra cost.
 ![jlcpcb remove order number](https://user-images.githubusercontent.com/76870663/133786011-6cd00bef-3afd-4ec0-a69d-d0eb82e8677c.PNG)
 
 
-##### PCB components: (all links and images attached in PDF)
+##### PCB components: (all links available in 'parts list pdf.pdf' file)
 1. 1x Arduino (pro) Micro
 2. 1x Rotary encoder with round PCB
 4. 9x Cherry MX clone keyboard switches
