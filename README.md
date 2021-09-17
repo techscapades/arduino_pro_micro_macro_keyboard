@@ -1,5 +1,7 @@
 # arduino_pro_micro_macro_keyboard
 
+//insert irl assembly here
+
 A macro keyboard using Arduino (pro) micro with selectable macro profiles
 and an OLED screen to indicate the profile selected. It uses a PISO shift
 register 
@@ -20,6 +22,9 @@ USB type C or micro-usb connector, the mini-USB version will not fit!
    do mind the amount of available memory
 
 # PCB:
+
+//insert PCB image here
+
 The current PCB uses cherry MX or similar key switches as buttons,
 feel free to use any switch you like! The 10K resistors on the side 
 can either be in the SMD 2010 from factor or THT. If you're using the
@@ -46,9 +51,15 @@ resistors are soldered to the top of the housing, the other is when the
 SMD (only) resistors are soldered to the bottom of the PCB, snapshots of
 what both versions will look like are in the 'snapshots' folder. 
 
-You have a couple options for mounting the PCB to the housing base since I've 
-made the holes slightly smaller:
-1. use an m3 tap to tap the holes and then use an M3 screw
+You have plenty of options for mounting the PCB to the housing base since I've 
+made the holes slightly smaller which gives you the option to use self-tap screws 
+or machine screws with nuts or machine screws with tapped holes; you can literally use 
+whatever you have at hand but keep in mind that the screws I intended to use are M3 
+so make sure you ahve the correct size.
+
+I've opted to drill 3mm holes in the housing base and PCB cover, then use M3x20mm 
+screws with plastic M3 spacers to fasten the screw from the bottom of the base
+to the top of the PCB cover.
 
 # Special thanks to:
 NicoHood for developing the HID library and
