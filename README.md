@@ -17,7 +17,7 @@ with the current PCB and 3D CAD is 17.9mm in width and it has either
 USB type C or micro-usb connector, the mini-USB version will not fit!
 
 # Features:
-1. OLED screen 
+1. OLED display
 2. Profile selector button
 3. Reset button
 4. Rotary encoder
