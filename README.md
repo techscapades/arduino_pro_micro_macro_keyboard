@@ -21,9 +21,11 @@ USB type C or micro-usb connector, the mini-USB version will not fit!
    geniuses who can remember that many combinations but 
    do mind the amount of available memory
 
-# Usage:
+# Code and usage:
 Explained in this youtube video:
 
+Dont hesitate to drop me a message if you need additional clarification,
+I'll get back to you as soon as I am able to.
 
 # PCB:
 
@@ -72,7 +74,18 @@ Soldering order as follows:
     of the OLED display and snip about 2mm off the bottom and put some 
     double sided tape on the bottom right side of the OLED 
     //insert image here
-11. 
+
+Congratulations, you're done! If you have a multimeter, I recommend that after
+every stage of soldering you go into continuity test mode and check that your 
+connections are solid and you havent shorted or connected any pins together 
+or you'll be in for a bad time. I also recommend ensuring all your cherry MX 
+or clone key switches work before soldering them on to the PCB. 
+
+If you've never done a continuity test before, you hold one probe to one pad 
+or pin and then the other to the part it's suppost to be connected to, 
+either a PCB trace or a neighbouring pin. If the multimeter buzzes, a connection
+is made, whether or not thats a good or bad thing will depend on whether a
+connection is supposed to be or not to be made. 
 
 # 3D Printable CAD housing
 
