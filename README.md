@@ -54,6 +54,7 @@ PCB components: (all links and images attached in PDF)
 //insert CAD housing picture here
 
 The main components of the housing are the PCB cover and the housing base.
+You can choose to laser cut the PCB cover if you want.
 //insert images of both here
 
 There are 2 versions of the PCB cover, one version is when the SMD or THT
@@ -78,7 +79,7 @@ the housing base to prevent it from slipping.
 //insert cover piece photo
 
 The additional rotary encoder/reset button/OLED cover piece is nice but not necessary.
-If you do decide to print it, you will need to:
+If you do decide to 3D print or laser cut it, you will need to:
 1. Ideally tap M3 threads into the 3 holes in the PCB cover or less ideally
    heat up an M3 screw and screw into the cover piece to create the thread
 2. Screw 3x M3x6mm brass spacers into the holes
