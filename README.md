@@ -26,8 +26,8 @@ USB type C or micro-usb connector, the mini-USB version will not fit!
 1. Ensure you have the Arduino IDE installed
 2. Download and unzip both the required libraries.zip and arduino_micro_shift_register_piso_rot_enc_psbtn_OLED_V3.zip
 files. 
-3. Go to the 'libraries' folder in your arduino installation and paste the 2 folders inside the required libraries
-folder into the 'libraries folder. 
+3. Go to the 'libraries' folder in your arduino installation and paste the 2 folders inside the 'required libraries'
+folder into the 'libraries' folder in your arduino installation. 
 4. Then open the arduino_micro_shift_register_piso_rot_enc_psbtn_OLED_V3.ino file.
 
 How to modify the code to suit you is explained in this youtube video:
