@@ -49,6 +49,31 @@ PCB components: (all links and images attached in PDF)
 12. *Optional but highly recommended* 1x Rotary encoder knob
 13. *Optional* 1x DIP-16 socket or 2x DIP-8 sockets
 
+IMPORTANT NOTE: YOU NEED TO SOLDER THE COMPONENTS IN A CERTAIN ORDER!
+Soldering order as follows: 
+1. Solder the SMD or THT resistors 
+2. Solder the 12mm tactile switch to the top of the PCB
+3. Solder the DIP-16 socket or 74HC165 directly to the PCB with the 
+   identifying indented notch on Pin 1 pointing towards the left where the
+   "O" on the PCB is
+   //insert image here
+4. Solder the Arduino (pro) Micro to the bottom of the PCB
+5. *Optional* snip off the Micro's pins that extend from the top of the PCB
+6. Solder the 2x 4pin female PCB header pins for the OLED
+7. Solder all the Cherry MX or clone key switches
+8. From the bottom of the Rotary encoder, remove the extra black plastic 
+   holding the male header pins and attach a piece of tape to the bottom 
+   of the rotary encoder covering the resistors etc.. This is done to 
+   stabilise the rotary encoder. I used wire cutter to remove it.
+   //insert image here
+   
+9. Solder the rotary encoder to the top of the PCB
+10. Finally, remove the extra black plastic holding the male header pins
+    of the OLED display and snip about 2mm off the bottom and put some 
+    double sided tape on the bottom right side of the OLED 
+    //insert image here
+11. 
+
 # 3D Printable CAD housing
 
 //insert CAD housing picture here
