@@ -22,7 +22,7 @@ configuration I've decided to go with a shift register instead, simply because
 the complexity of the PCB is brought way down with fewer components to fail
 and its a lot easier to replace a socketed dip-16 IC than it is to desolder
 a diode and the number of pins I save using a shift register allows for future
-explansion.
+expansion.
 
 Apart from the code and required libraries, the PCB gerber files, 3D CAD files 
 for the housing, parts list and snapshots of the different skews are included 
