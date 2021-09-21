@@ -39,7 +39,7 @@ folder into the 'libraries' folder in your arduino installation.
 4. Then open the arduino_micro_shift_register_piso_rot_enc_psbtn_OLED_V3.ino file.
 
 How to modify the code to suit you is explained in this youtube video:
-https://youtu.be/DriOpHgIRV4
+https://www.youtube.com/watch?v=DriOpHgIRV4
 
 Dont hesitate to drop me a message if you need additional clarification,
 I'll get back to you as soon as I am able to.
