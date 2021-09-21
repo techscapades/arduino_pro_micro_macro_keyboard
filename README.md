@@ -10,6 +10,20 @@ It uses Cherry MX switches or clones of it to really capture that keyboard feel.
 It can do a lot more than simulate key presses though, it can replicate a mouse, 
 launch programmes and much more! I've left an easter egg in profile 5 :).
 
+I built this macro keyboard because I was spending way too much time with
+repetitive keystrokes, it was too difficult and even annoying to not have media
+control keys on my keyboard, the ones in the market were way too expensive
+and finally, after looking up many designs of people who've built their own
+macro keyboards and finding only a few with a display, none of them met my
+criteria, and I decided to build my own. 
+
+I decided to implement an OLED display that's compact and instead of a diode-resistor
+configuration I've decided to go with a shift register instead, simply because
+the complexity of the PCB is brought way down with fewer components to fail
+and its a lot easier to replace a socketed dip-16 IC than it is to desolder
+a diode and the number of pins I save using a shift register allows for future
+explansion.
+
 Apart from the code and required libraries, the PCB gerber files, 3D CAD files 
 for the housing, parts list and snapshots of the different skews are included 
 as well. Do note that the Arduino (pro) micro that is compatible 
