@@ -14,8 +14,8 @@ I built this macro keyboard because I was spending way too much time with
 repetitive keystrokes, it was too difficult and even annoying to not have media
 control keys on my keyboard, the ones in the market were way too expensive
 and finally, after looking up many designs of people who've built their own
-macro keyboards and finding only a few with a display, none of them met my
-criteria, and I decided to build my own. 
+macro keyboards and finding only a few with a display, but none of them met my
+criteria, and I knew I had to build my own. 
 
 I decided to implement an OLED display that's compact and instead of a diode-resistor
 configuration I've decided to go with a shift register instead, simply because
