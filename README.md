@@ -1,5 +1,7 @@
 # V4 - Allows switching to next AND previous profile
 
+## This update uses short presses of the profile selector switch to go to the next profile and long presses to go to the previous profile. 
+
 ![Best rendering (3)](https://user-images.githubusercontent.com/76870663/133833800-85e0ed2d-d4ae-48e4-a4c3-c7bc171ead55.png)
 
 
@@ -50,7 +52,8 @@ USB type C or micro-usb connector, the mini-USB version will not fit!
 files. 
 3. Go to the 'libraries' folder in your arduino installation and paste the 2 subfolders inside the 'required libraries'
 folder into the 'libraries' folder in your arduino installation. 
-4. Then open the arduino_micro_shift_register_piso_rot_enc_psbtn_OLED_V3.ino file.
+4. [V4 update] Install ezButton library: Go to Sketch > Include Library > Manage Libraries... > Search for 'ezButton' in search bar > Install
+5. Then open the arduino_micro_shift_register_piso_rot_enc_psbtn_ezbtn_OLED_V4.ino file.
 
 How to modify the code to suit you is explained in this youtube video:
 https://www.youtube.com/watch?v=DriOpHgIRV4
@@ -212,7 +215,9 @@ NicoHood for developing the HID library and
 Henning Karlsen of Rinky-Dink Electronics for developing a 
 lightweight OLED library. DroneBot workshop for providing the 
 basic code to run the 74HC165 PISO shift register. Their 
-libraries are included in the ZIP file. 
+libraries are included in the ZIP file. And also ArduinoGetStarted
+for providing the ezButton library.
+
 
 
 
