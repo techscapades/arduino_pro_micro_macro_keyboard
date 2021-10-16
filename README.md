@@ -1,6 +1,6 @@
 # V4 - Allows switching to next AND previous profile
 
-## This update uses short presses of the profile selector switch to go to the next profile and long presses to go to the previous profile. Changes do not affect any pre-existing profiles, they only modify the behavious of the profile selector button.
+## This update uses short presses of the profile selector switch to go to the next profile and long presses to go to the previous profile. Changes do not affect any pre-existing profiles, they only modify the behaviour of the profile selector button.
 
 ![Best rendering (3)](https://user-images.githubusercontent.com/76870663/133833800-85e0ed2d-d4ae-48e4-a4c3-c7bc171ead55.png)
 
