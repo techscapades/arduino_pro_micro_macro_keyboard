@@ -52,7 +52,7 @@ USB type C or micro-usb connector, the mini-USB version will not fit!
 files. 
 3. Go to the 'libraries' folder in your arduino installation and paste the 2 subfolders inside the 'required libraries'
 folder into the 'libraries' folder in your arduino installation. 
-# 4. [V4 update] Install ezButton library: Go to Sketch > Include Library > Manage Libraries... > Search for 'ezButton' in search bar > Install
+### 4. [V4 update] Install ezButton library: Go to Sketch > Include Library > Manage Libraries... > Search for 'ezButton' in search bar > Install
 5. Then open the arduino_micro_shift_register_piso_rot_enc_psbtn_ezbtn_OLED_V4.ino file.
 
 How to modify the code to suit you is explained in this youtube video:
