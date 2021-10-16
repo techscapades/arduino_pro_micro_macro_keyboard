@@ -1,4 +1,6 @@
-# arduino (pro) micro macro keyboard
+# arduino (pro) micro macro keyboard V4
+
+This version allows for switching between the next and previous profiles instead of just the next one in V3
 
 ![Best rendering (3)](https://user-images.githubusercontent.com/76870663/133833800-85e0ed2d-d4ae-48e4-a4c3-c7bc171ead55.png)
 
